@@ -1,0 +1,127 @@
+.ojo1
+{
+    background-color: blue;
+    position: absolute;
+    top: 10px;
+    transform: translate(10px,10px);
+    width: 27px;
+    height: 20px;
+}
+.cabeza
+{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    top: 10px;
+    transform: translate(50px,5px);
+}
+.ojo2{
+    background-color: blue;
+    width: 27px;
+    position: absolute;
+    height: 20px;
+    top: 15px;
+    transform: translate(65px,5px);
+}
+.boca
+{
+    background-color: coral;
+    width: 70px;
+    height: 15px;
+    position: absolute;
+    transform: translate(15px,5px);
+    top: 70px;
+    
+}
+.nariz
+{
+    background-color: black;
+    width: 20px;
+    height: 40px;
+    position: absolute;
+    transform:translate(42px,5px);
+    top: 15px;
+}
+.cuerpo
+{
+    background-color: rgb(255, 166, 0);
+    width: 125px;
+    height: 150px;
+    position: absolute;
+    transform: translate(37px,50px);
+    top: 63px;
+}
+.mano1
+{
+    background-color: red;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    transform: translate(0px,0px);
+    top: 80px;
+}
+.mano2
+{
+    background-color: aqua;
+    width: 50px;
+    height:30px ;
+    position:absolute;
+    transform: translate(75px,0px);
+    top: 80px;
+}
+.objeto1
+{
+    background-color: darkviolet;
+    width: 30px;
+    height: 60px;
+    position: absolute;
+    transform: translate(20px,0px);
+    top: 20px;
+    
+}
+.objeto2
+{
+    background-color: darkviolet;
+    width: 30px;
+    height: 60px;
+    position: absolute;
+    transform: translate(74px,0px);
+    top: 20px;
+    
+}
+.divCuerpo
+{
+    background-color: red;
+    width: 142px;
+    height: 20px;
+    position:absolute;
+    transform: translate(30px,0px);
+    top: 250px;
+}
+.pierna1
+{
+    background-color: rgb(200, 80, 255);
+    width: 60px;
+    height: 90px;
+    position: absolute;
+    transform: translate(45px,5px);
+    top: 265px;
+}
+.pierna2
+{
+    background-color: rgb(255, 80, 124);
+    width: 60px;
+    height: 90px;
+    position: absolute;
+    transform: translate(100px,5px);
+    top: 265px;
+}
+.platafPie
+{
+    background-color: red;
+    width: 100px;
+    height: 10px;
+    top: 150px;
+    position: absolute;
+    
+}
